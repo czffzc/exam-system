@@ -1,6 +1,6 @@
 # ex4
 
-## Project setup
+## 前端Project setup
 ```
 npm install
 ```
@@ -22,3 +22,18 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
+## 服务端启动
+
+```
+cd server
+```
+
+### 启动nodejs
+
+```
+nodemon server
+```
+
